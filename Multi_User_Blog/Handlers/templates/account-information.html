@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<form method="post">
+<section class="col-md-12">
+  <label>Email</label>
+  <input type="text" value={{user.email}}></input><br>
+  <button type="submit">Change Account Information</button>
+</section>
+</form>
+{% endblock %}
