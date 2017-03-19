@@ -3,7 +3,7 @@ This is a multi-user blog!
 
 To start working on this
 
-1. Clone the repo
+1. Clone the repo: git clone https://github.com/hackzor12/Blog.git
 
 2. Navigate to the repo
 
