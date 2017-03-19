@@ -1,5 +1,5 @@
 # Blog
-This is a multi user blog!
+This is a multi-user blog!
 
 To start working on this
 
